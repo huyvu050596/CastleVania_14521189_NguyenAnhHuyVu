@@ -1,0 +1,129 @@
+﻿  SceneMain.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\global.h(40): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\batintrogame.h(8): warning C4005: 'BAT_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\bat.h(9): note: see previous definition of 'BAT_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\batintrogame.h(11): warning C4005: 'BAT_Y': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\bat.h(14): note: see previous definition of 'BAT_Y'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\downstairobject.h(9): warning C4005: 'IMAGE_FILE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\upstairobject.h(9): note: see previous definition of 'IMAGE_FILE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\waterobject.h(9): warning C4005: 'IMAGE_FILE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\downstairobject.h(9): note: see previous definition of 'IMAGE_FILE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\invisibleobject.h(9): warning C4005: 'IMAGE_FILE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\waterobject.h(9): note: see previous definition of 'IMAGE_FILE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\pausemenu.h(8): warning C4005: 'IMAGE_FILE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\invisibleobject.h(9): note: see previous definition of 'IMAGE_FILE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\boardpause.h(8): warning C4005: 'IMAGE_FILE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\pausemenu.h(8): note: see previous definition of 'IMAGE_FILE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\blackboard.h(8): warning C4005: 'IMAGE_FILE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\boardpause.h(8): note: see previous definition of 'IMAGE_FILE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\health.h(8): warning C4005: 'IMAGE_FILE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\blackboard.h(8): note: see previous definition of 'IMAGE_FILE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\bottleitem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\axeitem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\sworditem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\bottleitem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\bumeranitem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\sworditem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\morningstaritem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\bumeranitem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\ballitem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\morningstaritem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\bigheartitem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\ballitem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\heartitem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\bigheartitem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\crossitem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\heartitem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\ii_item.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\crossitem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\iii_item.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\ii_item.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\moneybagitem.h(8): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\iii_item.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\porkchopitem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\moneybagitem.h(8): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\potion_item.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\porkchopitem.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\stopwatchitem.h(9): warning C4005: 'ITEM_IMAGE': macro redefinition
+  c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\potion_item.h(9): note: see previous definition of 'ITEM_IMAGE'
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(122): warning C4018: '>': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(260): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(357): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(372): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(373): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(375): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(418): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(423): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(434): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(443): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(447): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(452): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(457): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(485): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(495): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(512): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(577): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(583): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(587): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(591): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(599): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(629): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(632): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(675): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(676): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(691): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(702): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(703): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(720): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(744): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(753): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(754): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(781): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(819): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(837): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(937): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(942): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(999): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1025): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1076): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1087): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1088): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1100): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1105): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1114): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1123): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1128): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1159): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1165): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1182): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1185): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1201): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1220): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1221): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1233): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1234): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1288): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1270): warning C4101: 'j': unreferenced local variable
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1270): warning C4101: 'i': unreferenced local variable
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1308): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1309): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1340): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1342): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1350): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1401): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1449): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1451): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1456): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1457): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1479): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1527): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1552): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1601): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1671): warning C4018: '<': signed/unsigned mismatch
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1675): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1772): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1777): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\vu\desktop\castlevania_14521189_nguyenanhhuyvu\simon\scenemain.cpp(1265): warning C4715: 'SceneMain::GetTypeObject': not all control paths return a value
+  Simon.vcxproj -> C:\Users\Vu\Desktop\CastleVania_14521189_NguyenAnhHuyVu\Debug\Simon.exe

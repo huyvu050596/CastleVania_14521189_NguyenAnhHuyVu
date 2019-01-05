@@ -1,0 +1,24 @@
+#ifndef _MorningStarITEM_H_
+#define _MorningStarITEM_H_
+
+#include <d3dx9.h>
+#include "GameSprite.h"
+#include "Item.h"
+#include "Global.h"
+
+#define ITEM_IMAGE "Resources/item/3.png"
+#define ITEM_VY -7
+#define ITEM_GRAVITY 1
+#define ITEM_FRAME 15
+
+class MorningStarItem : public Item
+{
+public:
+	MorningStarItem(float x, float y);
+	~MorningStarItem();
+
+	virtual void Update(GameCamera *camera, int t);
+};
+#endif
+
+

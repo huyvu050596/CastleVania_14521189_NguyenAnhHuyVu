@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="FrameWork">
+      <UniqueIdentifier>{f6bd9936-c77e-45cb-91a4-5e06f7df3b0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Sound">
+      <UniqueIdentifier>{be2d03d9-75c7-4d53-a3b7-4cd8e018d4bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{c0ebad27-db98-4a45-80ad-e395f65134d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map">
+      <UniqueIdentifier>{955f2c21-0270-44ab-801a-6bd17936bbef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{769548ae-a428-460e-b7f3-7b6674e26d52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Board">
+      <UniqueIdentifier>{93870f7f-4aa5-49d0-b582-03dea02ed880}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Effect">
+      <UniqueIdentifier>{0faaa3c3-c798-4cb8-ad60-a9088e33b4a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Enemies">
+      <UniqueIdentifier>{e8c75964-43de-4695-a1c5-671d3a623da4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Ground">
+      <UniqueIdentifier>{665bdb51-f673-446c-8608-fa1bc5be4366}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Intro">
+      <UniqueIdentifier>{3f0fa32b-27b6-4308-a233-abbc4435c341}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Item">
+      <UniqueIdentifier>{f8892a39-bf4e-4303-9730-d0bd49bd5cd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Item\WeaponItem">
+      <UniqueIdentifier>{f6f9c526-cc83-4e44-9a9c-3cf16505923f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Menu">
+      <UniqueIdentifier>{bed10fa2-7d0c-4d07-ae1d-667b41cb0c24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Weapon">
+      <UniqueIdentifier>{5bb56131-5b58-4596-925f-5553fe4f9341}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{d7241878-642a-45c4-af25-647e91799435}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WinMain">
+      <UniqueIdentifier>{eec861d7-51c9-4dab-8bdc-ec00661509e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quadtree_SweptAABB">
+      <UniqueIdentifier>{1a44870c-9084-427a-8e79-a192e8b1bb4a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>WinMain</Filter>
+    </ClCompile>
+    <ClCompile Include="dsutil.cpp">
+      <Filter>FrameWork\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMain.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Simon.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Swept_AABB.cpp">
+      <Filter>Quadtree_SweptAABB</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTree.cpp">
+      <Filter>Quadtree_SweptAABB</Filter>
+    </ClCompile>
+    <ClCompile Include="Bat.cpp">
+      <Filter>Object\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="FishMan.cpp">
+      <Filter>Object\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Ghoul.cpp">
+      <Filter>Object\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Panther.cpp">
+      <Filter>Object\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick.cpp">
+      <Filter>Object\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="Torch.cpp">
+      <Filter>Object\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="Candle.cpp">
+      <Filter>Object\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="Stair.cpp">
+      <Filter>Object\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Object\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseMenu.cpp">
+      <Filter>Object\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackBoard.cpp">
+      <Filter>Object\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="Health.cpp">
+      <Filter>Object\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Object\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Object\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="MorningStar.cpp">
+      <Filter>Object\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Fire.cpp">
+      <Filter>Object\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>Object\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>Object\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Axe.cpp">
+      <Filter>Object\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Bumeran.cpp">
+      <Filter>Object\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Bottle.cpp">
+      <Filter>Object\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Star.cpp">
+      <Filter>Object\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBall.cpp">
+      <Filter>Object\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="WeaponBoard.cpp">
+      <Filter>Object\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="HeartItem.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="AxeItem.cpp">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClCompile>
+    <ClCompile Include="BottleItem.cpp">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClCompile>
+    <ClCompile Include="BumeranItem.cpp">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClCompile>
+    <ClCompile Include="SwordItem.cpp">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClCompile>
+    <ClCompile Include="MorningStarItem.cpp">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClCompile>
+    <ClCompile Include="BigheartItem.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="MoneyBagItem.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="BallItem.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="III_Item.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="II_Item.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="CrossItem.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="PorkChopItem.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="StopwatchItem.cpp">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClCompile>
+    <ClCompile Include="ShotBoard.cpp">
+      <Filter>Object\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="BossBat.cpp">
+      <Filter>Object\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Potion_Item.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCamera.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="GameFont.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSprite.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTexture.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="GameAudio.cpp">
+      <Filter>FrameWork\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="BatIntroGame.cpp">
+      <Filter>Object\Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="CloudIntroGame.cpp">
+      <Filter>Object\Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="DownStairObject.cpp">
+      <Filter>Object\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="UpStairObject.cpp">
+      <Filter>Object\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="InvisibleObject.cpp">
+      <Filter>Object\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="BoardPause.cpp">
+      <Filter>Object\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Stair2.cpp">
+      <Filter>Object\Ground</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="dsutil.h">
+      <Filter>FrameWork\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="dxutil.h">
+      <Filter>FrameWork\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMain.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Simon.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Swept_AABB.h">
+      <Filter>Quadtree_SweptAABB</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>Quadtree_SweptAABB</Filter>
+    </ClInclude>
+    <ClInclude Include="Bat.h">
+      <Filter>Object\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="FishMan.h">
+      <Filter>Object\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Ghoul.h">
+      <Filter>Object\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Panther.h">
+      <Filter>Object\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick.h">
+      <Filter>Object\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Torch.h">
+      <Filter>Object\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Candle.h">
+      <Filter>Object\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Stair.h">
+      <Filter>Object\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Object\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseMenu.h">
+      <Filter>Object\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackBoard.h">
+      <Filter>Object\Board</Filter>
+    </ClInclude>
+    <ClInclude Include="Health.h">
+      <Filter>Object\Board</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Object\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Object\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="MorningStar.h">
+      <Filter>Object\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Fire.h">
+      <Filter>Object\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Water.h">
+      <Filter>Object\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>Object\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Axe.h">
+      <Filter>Object\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Bumeran.h">
+      <Filter>Object\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Bottle.h">
+      <Filter>Object\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Star.h">
+      <Filter>Object\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBall.h">
+      <Filter>Object\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponBoard.h">
+      <Filter>Object\Board</Filter>
+    </ClInclude>
+    <ClInclude Include="HeartItem.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="AxeItem.h">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClInclude>
+    <ClInclude Include="BottleItem.h">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClInclude>
+    <ClInclude Include="BumeranItem.h">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClInclude>
+    <ClInclude Include="SwordItem.h">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClInclude>
+    <ClInclude Include="MorningStarItem.h">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClInclude>
+    <ClInclude Include="BigheartItem.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="MoneyBagItem.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="BallItem.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="III_Item.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="II_Item.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="CrossItem.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="PorkChopItem.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="StopwatchItem.h">
+      <Filter>Object\Item\WeaponItem</Filter>
+    </ClInclude>
+    <ClInclude Include="ShotBoard.h">
+      <Filter>Object\Board</Filter>
+    </ClInclude>
+    <ClInclude Include="BossBat.h">
+      <Filter>Object\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Potion_Item.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCamera.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="GameFont.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSprite.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTexture.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="GameAudio.h">
+      <Filter>FrameWork\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="BatIntroGame.h">
+      <Filter>Object\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="CloudIntroGame.h">
+      <Filter>Object\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="DownStairObject.h">
+      <Filter>Object\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="UpStairObject.h">
+      <Filter>Object\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="InvisibleObject.h">
+      <Filter>Object\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraObject.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="BoardPause.h">
+      <Filter>Object\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterObject.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Stair2.h">
+      <Filter>Object\Ground</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
